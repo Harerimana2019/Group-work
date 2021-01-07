@@ -1,10 +1,10 @@
 def Menu():
-    print("Welcome to MIDMAR Online Support Center")
+    print("Welcome to MINEMA Online Support Center")
     print("1. Continue")
     print("2. Cancel")
 
 def Continue_menu():
-    print("Continue to MIDMAR Online Support Center")
+    print("Continue to MINEMA Online Support Center")
     print("1. Identifications")
     print("2. Go Back")
 
@@ -39,7 +39,7 @@ def PoR():
     print("2. Go Back")
 
 def message():
-    print("Thank you for using MIDMAR Online Support center. You have been registered to get a NEW ID, Please reach out to MIDMAR office for the next step")
+    print("Thank you for using MINEMA Online Support center. You have been registered to get a NEW ID, Please reach out to MIDMAR office for the next step")
 
 def passport_menu ():
     print("Enter Your Name to register for Passport")
